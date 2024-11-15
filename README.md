@@ -1,6 +1,26 @@
-# 💫 About Me:
-👋 Hey! I'm Ayman Fouad<br>I'm a Software Engineer with 12 months of experience working with C#, Python, and Azure Cloud. I’m passionate about AI, cloud computing, and creating tech solutions that improve lives.<br><br>💻 Projects I'm Working On:<br>Contactless Covid-19 Screening Device: Developed using Raspberry Pi-4 and temperature sensors, reducing screening time by 85%. 🦠📊<br>AI Sudoku Solver: Built an advanced Python script utilizing recursive backtracking, solving puzzles with a 99% success rate. 🧩🤖<br>Housing Startup: Currently building a platform to simplify the student housing process. 🏡💡<br><br>🌟 Interests & Hobbies:<br>Entrepreneurship: Building tech-driven solutions to real-world problems. 💡<br>AI & Cloud: Always learning about AI and cloud technologies.<br>Gaming & F1: Gamer and Formula 1 fan. 🎮🏎️<br>Rock Climbing & Tennis: Love staying active outside of coding. 🧗🎾<br><br>💬 Let's Connect!<br>I’m always up for discussing new tech projects, startups, or internships. Reach me at shaikmoa@mcmaster.ca.<br><br>
+### Hi there 👋 Welcome to my GitHub! I'm Ayman Fouad, Software Engineer
 
+### aboutMe.js
+
+```javascript
+const ayman = {
+    profession: "Software Engineering Intern",
+    experience: "12 months",
+    expertise: ["C#", "Python", "Azure Cloud", "AI", "Data"],
+    interests: ["AI", "Cloud Computing", "Data Engineering"],
+    techStack: {
+        languages: ["Python", "C#", "JavaScript", "Spark", "Scala"],
+        frameworks: [".NET Core", "React.js"],
+        cloud: ["Azure", "AWS"],
+        databases: ["SQL", "MongoDB"],
+        tools: ["Git", "Docker", "Kubernetes"]
+    },
+    exploring: [
+        "Big data projects with Spark and Scala",
+        "Optimizing performance in cloud-based systems"
+    ]
+};
+```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aymanfouad123/) 
