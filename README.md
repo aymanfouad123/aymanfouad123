@@ -1,19 +1,18 @@
-### Hi there 👋 Welcome to my GitHub! I'm Ayman Fouad, Software Engineer
+## Hi there 👋 Welcome to my GitHub! I'm Ayman Fouad, 
 
-# aboutMe.js
+### aboutMe.js
 
 ```javascript
-const ayman = {
-    profession: "Software Engineer",
+const aymanLife = {
+    profession: "Software Engineering Intern",
     experience: "12 months",
     expertise: ["C#", "Python", "Azure Cloud", "AI", "Data"],
     askMeAbout: ["AI", "Cloud Computing", "Data Engineering", "Entrepreneurship"],
     techStack: {
         languages: ["Python", "C#", "JavaScript"],
-        frameworks: [".NET Core", "React.js"],
+        frameworks: [".NET Core", "React.js", "Django"],
         cloud: ["Azure", "AWS"],
-        databases: ["SQL", "MongoDB"],
-        tools: ["Git", "Docker", "Kubernetes"]
+        databases: ["SQL", "MongoDB"]
     },
     exploring: [
         "Big data projects with Spark and Scala",
