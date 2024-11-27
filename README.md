@@ -2,27 +2,29 @@
  <p align="center"><h1 align="center">Hi! <img src="https://media.giphy.com/media/8XaBSsyQaYFxxNqznU/giphy.gif" width="40" height="40"/>
  </h3>
 
- <p align="center">I'm <b>Ayman Fouad</b>! A fourth-year Computer Science student at McMaster University, in Canada! </p>
+ <p align="center">I'm <b>Ayman Fouad</b>! A fourth-year Computer Science student at McMaster University, in Canada! 🍁 </p>
  
 ### aboutMe.js
 
 ```javascript
 const aymanLife = {
-    curProfession: "Software Engineering Intern at SEH",
-    experience: "12 months",
-    expertise: ["C#", "Python", "Azure Cloud", "AI", "Data"],
-    askMeAbout: ["AI", "Cloud Computing", "Data Engineering", "Entrepreneurship"],
+    currProfession: "Software Engineering Intern at SEH",
+    currSummary: "Focused on backend development and cloud-based solutions",
+    experience: "12 months+",
+    expertise: ["C#", "Python", "Azure Cloud", "SQL", "Data"],
+    askMeAbout: ["Cloud Computing", "Data Engineering", "Entrepreneurship", "My Housing Startup!"],
     techStack: {
-        languages: ["Python", "C#", "JavaScript"],
+        languages: ["Python", "C#", "JavaScript", "TypeScript"],
         frameworks: [".NET Core", "React.js", "Django"],
         cloud: ["Azure", "AWS"],
-        databases: ["SQL", "MongoDB"]
+        databases: ["MySQL", "MongoDB"]
     },
     exploring: [
         "Big data projects with Spark and Scala",
-        "Optimizing performance in cloud-based systems"
+        "Learning data engineering and streaming concepts",
+        "Optimizing performance for cloud-based systems"
     ],
-    hobbies: ["Formula 1", "Rock Climbing", "Tennis", "Gaming"]
+    hobbies: ["Formula 1", "Rock Climbing", "Tennis", "Playing Apex Legends!"]
 };
 ```
 
