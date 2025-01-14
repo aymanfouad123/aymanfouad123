@@ -2,7 +2,7 @@
  <p align="center"><h1 align="center">Hi! <img src="https://media.giphy.com/media/8XaBSsyQaYFxxNqznU/giphy.gif" width="40" height="40"/>
  </h3>
 
- <p align="center">I'm <b>Ayman Fouad</b>! A fourth-year Computer Science student at McMaster University, in Canada! 🍁 </p>
+ <p align="center">I'm <b>Ayman Fouad</b>! A 4th Computer Science student at McMaster University, in Canada! 🍁 </p>
  
 ### aboutMe.js
 
