@@ -1,3 +1,1 @@
-learning and exploring...
-
 email: shaikmoa [at] mcmaster [dot] ca
