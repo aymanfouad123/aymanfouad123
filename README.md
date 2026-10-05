@@ -1,1 +1,1 @@
-email: shaikmoa [at] mcmaster [dot] ca
+email: shaikmoa [at] gmail [dot] com
